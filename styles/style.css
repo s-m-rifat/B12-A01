@@ -39,8 +39,12 @@ nav{
     padding: 20px;
     font-size: 16px;
     font-weight: bold;
+    cursor: pointer;
 
 }
+
+
+
 .banner{
     text-align: center;
     width: 905px;
@@ -78,8 +82,11 @@ header{
     padding: 30px;
     font-size: 16px;
     font-weight: bold;
+    cursor: pointer;
 
 }
+
+
 .p-title{
     text-align: center;
     font-weight: bold;
@@ -112,3 +119,34 @@ header{
     border-radius: 24px;
     padding: 80px;
 }
+.get-in-touch{
+    display: flex;
+    gap: 100px;
+    background-color: rgba(78, 71, 255, 0.1);;
+    align-items: center;
+    border-radius: 10px;
+
+}
+
+.g-title{
+    margin-left: 180px;
+    font-weight: bold;
+    font-size: 97px;
+}
+.logo-f{
+    text-align: center;
+    margin: 105px 450px;
+}
+.f-title{
+    font-weight: 900;
+    font-size: 100px;
+}
+footer p{
+    color: #8987A1;
+    
+}
+.link{
+    
+    color: #8987A1;
+}
+
