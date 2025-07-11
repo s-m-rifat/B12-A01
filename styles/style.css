@@ -88,6 +88,9 @@ header{
     cursor: pointer;
 
 }
+.btn2 :hover{
+    background-color: aquamarine;
+}
 
 
 .p-title{
